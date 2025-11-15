@@ -1,6 +1,0 @@
-@BancoApi_HostAddress = http://localhost:5171
-
-GET {{BancoApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
